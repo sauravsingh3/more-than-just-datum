@@ -1,0 +1,68 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.panel-nav {
+  background-color: #ddd;
+}
+
+.panel-near {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.park {
+  width: 5em;
+}
+
+.type {
+  width: 6em;
+}
+
+.group {
+  width: 6em;
+}
+
+.swings {
+  width: 5em;
+}
+
+.slides {
+  width: 5em;
+}
+
+.seesaws {
+  width: 6em;
+}
+
+.sandboxes {
+  width: 7em;
+}
+
+.playhouses {
+  width: 7em;
+}
+
+.table-wrapper table {
+  min-width: 45em;
+}
+
+.search-icon {
+  left: .3em;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+input.search-input {
+  padding-left: calc(.4em + 18px);
+}
